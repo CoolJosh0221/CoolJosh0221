@@ -4,5 +4,8 @@
 	</a>  
 </div>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolJosh0221&show_icons=true&theme=radical)](https://discord.gg/QwXXNGNkeh)
+<div align="center">
+	<a href="https://discord.gg/QwXXNGNkeh" >  
+  		<img src="https://github-readme-stats.vercel.app/api?username=CoolJosh0221&show_icons=true&theme=radical" />  
+	</a>
+</div>
