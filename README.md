@@ -10,7 +10,6 @@
 &nbsp;
 
 
-
 <div align="center">
 	<a href="https://discord.gg/QwXXNGNkeh" >  
   		<img src="https://github-readme-stats.vercel.app/api?username=CoolJosh0221&show_icons=true&theme=radical" />  
@@ -19,14 +18,12 @@
 &nbsp;
 
 
-
 <div align="center">
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" >  
   		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolJosh0221&langs_count=10&theme=react" />  
 	</a>
 </div>
 &nbsp;
-
 
 
 <div align="center">
