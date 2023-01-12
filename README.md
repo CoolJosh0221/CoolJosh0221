@@ -11,21 +11,12 @@
 
 
 
-<div align="center">
-	<a href="https://discord.gg/QwXXNGNkeh" >  
-  		<img src="https://github-readme-stats.vercel.app/api?username=CoolJosh0221&show_icons=true&theme=radical" />  
-	</a>
-</div>
-&nbsp;
-
-
-
-<div align="center">
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" >  
-  		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolJosh0221&langs_count=10&theme=react" />  
-	</a>
-</div>
-&nbsp;
+![My Github Card](https://github-profile-trophy.vercel.app/?username=cooljosh0221&theme=dracula&no-frame=true&row=1&column=7)
+![My Github Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cooljosh0221&theme=dracula)
+![My Github Status](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cooljosh0221&theme=dracula)
+![My Github Status](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cooljosh0221&theme=dracula)
+![My Github Status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cooljosh0221&theme=dracula)
+![My Github Status](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cooljosh0221&theme=dracula)<br>
 
 
 
