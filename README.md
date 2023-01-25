@@ -20,4 +20,4 @@
 </div>
 
 # Blog
-<https://cooljosh0221.github.io>
+<https://blog-joshes.pages.dev/>
