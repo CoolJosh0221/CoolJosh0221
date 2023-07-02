@@ -13,6 +13,16 @@
 ![My Github Status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cooljosh0221&theme=dracula)
 ![My Github Status](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cooljosh0221&theme=dracula)<br>
 
+## <img src="https://cdn-icons-png.flaticon.com/512/306/306437.png" width="22px" />Skills:
+<a target="_blank" title="Python" href="https://zh.wikipedia.org/wiki/Python">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" />
+</a>
+<a target="_blank" title="C" href="https://zh.wikipedia.org/zh-tw/C%E8%AF%AD%E8%A8%80">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=" />
+</a>
+<a target="_blank" title="C++" href="https://zh.wikipedia.org/wiki/c++">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=" />
+</a>
 
 
 <div align="center">
@@ -21,3 +31,8 @@
 
 # Blog
 <https://blog-joshes.pages.dev/>
+
+
+<hr>
+
+Uicons by <a href="https://www.flaticon.com/uicons">Flaticon</a>
