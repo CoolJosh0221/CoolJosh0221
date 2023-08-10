@@ -2,9 +2,11 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=CoolJosh0221)
+
 ### Skills
 
-![](https://komarev.com/ghpvc/?username=CoolJosh0221)
+I am, of course, still learning them.
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,tailwindcss,c,cpp,rust,unity,vscode,neovim,md,discord,github,githubactions,git,linux,docker,bash,cmake,django,tensorflow,qt,nodejs&perline=8)](https://skillicons.dev)
 
