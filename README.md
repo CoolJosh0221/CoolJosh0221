@@ -2,9 +2,9 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,tailwindcss,c,cpp,rust,unity,vscode,neovim,md,discord,github,githubactions,git,linux,docker,bash,cmake,django,tensorflow,qt,nodejs&perline=8)](https://skillicons.dev)
-
 ![](https://komarev.com/ghpvc/?username=CoolJosh0221)
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,tailwindcss,c,cpp,rust,unity,vscode,neovim,md,discord,github,githubactions,git,linux,docker,bash,cmake,django,tensorflow,qt,nodejs&perline=8)](https://skillicons.dev)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/847772018928779285)](https://discord.com/users/847772018928779285)
 
