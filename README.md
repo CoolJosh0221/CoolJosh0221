@@ -8,7 +8,7 @@
 
 I am, of course, still learning them.
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,tailwindcss,c,cpp,rust,unity,vscode,md,discord,github,git,linux,docker,django,pytorch,tensorflow,nodejs&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,tailwindcss,c,cpp,unity,vscode,md,discord,github,git,linux,docker,pytorch,tensorflow&perline=8)](https://skillicons.dev)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/847772018928779285)](https://discord.com/users/847772018928779285)
 
