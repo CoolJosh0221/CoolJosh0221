@@ -6,7 +6,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/847772018928779285)](https://discord.com/users/847772018928779285)
 
-![My Github Card](https://github-profile-trophy.vercel.app/?username=cooljosh0221&theme=dracula&no-frame=true&row=1&column=7)
+![](https://github-profile-trophy.vercel.app/?username=cooljosh0221&theme=dracula&no-frame=true&row=1&column=7)
 ![My Github Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cooljosh0221&theme=ayu_mirage)
 
 <div style="display: flex width: 200px;">
