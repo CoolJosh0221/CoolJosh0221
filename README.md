@@ -24,3 +24,7 @@ I enjoy competitive programming, doing research, and exploring whatever happens 
 - **[libact](https://github.com/ntucllab/libact)** — Contributions to an open-source active learning library
 - **WMT 2026** — Research on pragmatic appropriateness in English–Vietnamese machine translation
 - **Competitive Programming** — Selected for the second-stage selection camp (top 12) of the 2026 Taiwan Olympiad in Informatics (TOI)
+
+---
+
+<sub>Profile picture: Miko Yashiro (社 美胡) from [Watashi wo Tabetai, Hitodenashi](https://wata-tabe.com/) (WataTabe).</sub>
